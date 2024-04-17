@@ -19,11 +19,9 @@ This is a web crawler written in Python using asyncio, aiohttp, and BeautifulSou
 4. Choose the text file containing the URLs to be crawled.
 5. Wait while the web crawler crawls the URLs and saves the forms found.
 
-## Example File Structure
+## File Structure
 - `crawler.py`: The main script.
 - `README.md`: This documentation file.
-- `requirements.txt`: Python requirements list file.
-- `example_urls.txt`: An example text file containing URLs to be crawled.
 
 ## Limitations
 - Crawling is limited to a maximum depth of 3.
