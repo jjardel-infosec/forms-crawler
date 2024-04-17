@@ -33,4 +33,4 @@ This is a web crawler written in Python using asyncio, aiohttp, and BeautifulSou
 Contributions are welcome! If you encounter issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]([LICENSE](https://opensource.org/license/mit)).
